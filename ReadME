@@ -1,0 +1,13 @@
+An electronic circuit written in Arduino IDE using CPP 30% of deaths are due to the inability of emergency services to reach in time due to traffic congestion.
+An ambulance siren, can't be heard in a target vehicle until the emergency vehicle is less than 1-2 meters away.
+Research shows that traditional siren and light system is effective up to a few meters only, and only 26% of drivers can tell the direction of an ambulance without visual cues, leading to the wastage of precious time. 
+Soundproofing in cars, loud music systems, long traffic jams and fog in winter further aggravate the problem, leading to massive delays in the delivery of emergency services and the loss of precious lives. 
+We talked with firefighters and the drivers of ambulances and fire brigades. We went to nearby hospitals and had a conversation with the ambulance department.
+We found that traffic on roads, especially near traffic signals, is a significant reason for the delay in the delivery of emergency services. 
+The project aims to make a communication system between emergency response vehicles, other vehicles moving on the road and traffic signal systems to enable Emergency Response vehicles to reach their destinations faster. 
+The system will not require the internet for communication. 
+The project includes the transmission of radio signals by the Emergency-Response Vehicle. It transmits its GPS Location through the radio signal. 
+If a traffic light system receives the signal, it shows green light to that lane and a red to others and regulates the time durations using the GPS Coordinates.
+The system will also show an indicator to alert other people driving on the road if there is an emergency vehicle behind their car. 
+Traffic signals will work according to the needs of emergency vehicle and due to the indicator much more time will be available for the non-emergency vehicles to give way to emergency vehicles. 
+It will save many lives by providing medical aid much faster.
